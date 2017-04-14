@@ -1,0 +1,6 @@
+*-bak
+*.ini
+*.TMP
+*.bak
+*.zip
+!libraries/*.lib
